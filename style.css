@@ -12,12 +12,19 @@
 
 .github{
     position: absolute;
-    left: 500px;
+    left: 785px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    font-size: larger;
 }
 
 .twitter{
     position: absolute;
     left: 1000px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    font-size: larger;
+}
+
+.gitpic{
+    position: relative;
+    left: 500px;
 }
