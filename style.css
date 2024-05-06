@@ -1,1 +1,10 @@
+.earth{
+    width: 40px;
+    height: 40px;
+}
 
+.introtext{
+    position: relative;
+    left: 50px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}   
