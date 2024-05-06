@@ -3,7 +3,7 @@
 }
 
 body { 
-    background-color: rgb(41, 40, 40);
+    background-color: rgb(40, 40, 40);
 }
 
 nav {
@@ -31,8 +31,10 @@ nav {
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    
 }
 
 .links ul {
+    color: rgb(189, 19, 19);
     list-style-type: none;
 }
