@@ -1,3 +1,11 @@
+* {
+    box-sizing: border-box;
+}
+
+body { 
+    background-color: rgb(41, 40, 40);
+}
+
 .earth{
     position: absolute;
     width: 40px;
@@ -8,7 +16,11 @@
     position: relative;
     left: 50px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
-}   
+} 
+
+.introtext h1 {
+    color: white;
+}
 
 .github{
     position: absolute;
