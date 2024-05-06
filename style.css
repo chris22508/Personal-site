@@ -9,3 +9,15 @@
     left: 50px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
 }   
+
+.github{
+    position: absolute;
+    left: 500px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+
+.twitter{
+    position: absolute;
+    left: 1000px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
