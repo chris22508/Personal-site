@@ -6,6 +6,10 @@ body {
     background-color: rgb(41, 40, 40);
 }
 
+nav {
+    border-bottom: 1px solid grey;
+}
+
 .earth{
     position: absolute;
     width: 40px;
@@ -14,7 +18,7 @@ body {
 
 .introtext{
     position: relative;
-    left: 50px;
+    margin-left: 50px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
 } 
 
@@ -22,21 +26,13 @@ body {
     color: white;
 }
 
-.github{
-    position: absolute;
-    left: 785px;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
-    font-size: larger;
+.links {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
 }
 
-.twitter{
-    position: absolute;
-    left: 1000px;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
-    font-size: larger;
-}
-
-.gitpic{
-    position: relative;
-    left: 500px;
+.links ul {
+    list-style-type: none;
 }
