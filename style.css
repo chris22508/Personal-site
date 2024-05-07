@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    text-decoration: none;
 }
 
 body { 
@@ -14,6 +15,15 @@ nav {
     position: absolute;
     width: 40px;
     height: 40px;
+}
+
+
+.fa-twitter {
+    font-size: 100px;
+}
+
+.fa-github {
+    font-size: 100px;
 }
 
 .introtext{
@@ -35,6 +45,9 @@ nav {
 }
 
 .links ul {
-    color: rgb(189, 19, 19);
     list-style-type: none;
+}
+
+.links ul li a {
+    color: rgb(255, 255, 255);
 }
