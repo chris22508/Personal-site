@@ -7,10 +7,6 @@ body {
     background-color: rgb(40, 40, 40);
 }
 
-nav {
-    border-bottom: 1px solid grey;
-}
-
 .earth{
     position: absolute;
     width: 40px;
@@ -42,6 +38,11 @@ nav {
     justify-content: center;
     flex-direction: column;
     
+}
+
+.rounded{
+    border: 2px solid gray;
+    border-radius: 5px;
 }
 
 .links ul {
